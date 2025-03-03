@@ -37,5 +37,7 @@ In my case, I have ./best_web_model/model.json to get my model:
 
 After these changes, make sure to build your development files again and upload your modified files to hugging face, ensuring that you correct any paths in index.html. Check the deployment again, and it should work if the paths are all correct!
 
+Feel free to reach out if you have any questions! 
+
 
 

@@ -1,5 +1,7 @@
 # Deploying a Deep Learning Model for Weed Detection 
-Code used to deploy the weed-detection model. This is a guide on how to deploy to a Hugging Face Space. You are ready to do so if you have already trained your deep learning model, have your inference logic written, and have obtained the production files (mine were obtained by building with vite).
+The code used to deploy the weed-detection model is included in this repository. This is a guide on how to deploy to a Hugging Face Space. You are ready to do so if you have already trained your deep learning model, have your inference logic written, and have obtained the production files (mine were obtained by building with vite).
+
+View the deployed site on hugging face here: https://huggingface.co/spaces/vivianxma/weed-and-crop-detection
 
 ### Step 1: Go to Hugging Face Spaces
 Create an account if you haven't already
